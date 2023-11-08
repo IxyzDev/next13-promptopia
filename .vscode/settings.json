@@ -1,5 +1,14 @@
 {
     "cSpell.words": [
         "Promptopia"
-    ]
+    ],
+    "spellright.language": [
+        "es"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "explorer.compactFolders": false,
 }
